@@ -130,6 +130,4 @@ Base URL: `http://localhost:5000/api`
 | PUT | `/settings` | Admin |
 | GET | `/health` | — |
 
----
 
- karo kya install hai (Compass ya Community Server). (disable recaps in /config)
